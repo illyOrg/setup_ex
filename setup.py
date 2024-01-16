@@ -10,6 +10,7 @@ setup(
     install_requires=[
         'requests>=2.0.0',
         'numpy>=1.0.0',
+        'pyyaml==3.10'
         # Add other dependencies here
     ],
     tests_require=[
